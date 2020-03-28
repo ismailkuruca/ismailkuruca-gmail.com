@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: simple.ws
+---
+testFramework: junit
+sourceLanguage: java
